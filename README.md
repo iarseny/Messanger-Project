@@ -12,4 +12,6 @@ What do you need to know to join:
 6)sql(for backend)
 7)express js(for backend too)
 
+Also one of the most important things is to know git. It is really important for team working
+
 See you later :)
